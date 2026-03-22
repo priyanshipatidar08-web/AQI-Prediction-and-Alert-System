@@ -43,7 +43,7 @@ Includes features like:
 ##  How to Run the Project
 
 ### 1️ Clone the repository
-git clone (https://github.com/priyanshipatidar08-web/AQI-Prediction-and-Alert-System/new/main)
+git clone (https://github.com/priyanshipatidar08-web/AQI-Prediction-and-Alert-System)
 
 ### 2️ Navigate to project folder
 cd AQI Prediction and Alert System
